@@ -15,7 +15,7 @@ Using this library in your project can be done in two ways:
 {
 	"dependencies": {
 		...
-		"com.jeffcampbellmakesgames.autopresets": "https://github.com/jeffcampbellmakesgames/unity-auto-preset.git#release/stable",
+		"com.jeffcampbellmakesgames.autopresets": "https://github.com/zapdot/unity-auto-preset.git#release/stable",
 		...
 	}
 }
